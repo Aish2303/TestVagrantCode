@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-29T11:22:59 IST" name="Default suite" finished-at="2022-10-29T11:22:59 IST" duration-ms="36">
+    <groups>
+    </groups>
+    <test started-at="2022-10-29T11:22:59 IST" name="Default test" finished-at="2022-10-29T11:22:59 IST" duration-ms="36">
+      <class name="TestPackage.TestClass">
+        <test-method is-config="true" signature="readJSONData()[pri:0, instance:TestPackage.TestClass@41fecb8b]" started-at="2022-10-29T11:22:59 IST" name="readJSONData" finished-at="2022-10-29T11:22:59 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readJSONData -->
+        <test-method signature="validateForeigners()[pri:0, instance:TestPackage.TestClass@41fecb8b]" started-at="2022-10-29T11:22:59 IST" name="validateForeigners" finished-at="2022-10-29T11:22:59 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForeigners -->
+        <test-method signature="validateWicketKeeper()[pri:0, instance:TestPackage.TestClass@41fecb8b]" started-at="2022-10-29T11:22:59 IST" name="validateWicketKeeper" finished-at="2022-10-29T11:22:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateWicketKeeper -->
+      </class> <!-- TestPackage.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
