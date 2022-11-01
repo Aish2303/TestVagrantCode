@@ -6,7 +6,7 @@ This project has 2 test cases
 2. Test that validates that team has atleast 1 wicket keeper
 
 Files in project:
-Json file is in src/test/java/resource which has test data to validate number of foreign players and wicket keepers
+Json file is in src/test/java/resource which has test data to validate number of foreign players and wicket keepers.   
 Dependencies required for json files are present in pom
 
 Pre conditions:
