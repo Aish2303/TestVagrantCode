@@ -4,8 +4,9 @@ Dependencies required for json files are present in pom
 
 Steps to run:
 1. Clone the project in Eclipse or Intellij
-2. Give a run
-3. Output will be printed on console(Number of foreign players and Number of wicket keepers)
+2. Add TestNG if not present in eclipse
+3. Give a run
+4. Output will be printed on console(Number of foreign players and Number of wicket keepers)
 
 
 Note:
